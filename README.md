@@ -1,5 +1,5 @@
 
-# BERT文本分类项目
+# A Robust BERT-Based Framework for Detecting AI-Generated Text
 
 This pilot study implements a BERT-based model for text classification tasks, leveraging [HuggingFace Transformers](https://github.com/huggingface/transformers), PyTorch, and EDA (Easy Data Augmentation).
 
